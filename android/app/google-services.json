@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393152847375",
+    "project_id": "kanban-board-app-5825e",
+    "storage_bucket": "kanban-board-app-5825e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393152847375:android:128d82f912e37809c10d7a",
+        "android_client_info": {
+          "package_name": "com.kanbanboardapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYARyZHJP7wKoWa-JZguwVmdQM1o7LSyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
